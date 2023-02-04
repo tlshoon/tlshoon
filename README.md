@@ -3,7 +3,9 @@
 ### Hi there [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tlshoon/)](https://www.instagram.com/tlshoon/) 
 <hr>
 
-- 💻I'm a Front-end Developer Interested in SPA.
+- 💻 I'm a Front-end Developer Interested in SPA.
+- 📚 I majored in Japanese culture and computer information engineering at Catholic University.
+- 🪪 I have a certificate of Engineer Information Processing
 - 🌏 I am from South Korea and living in Bucheon.
 - 🌱 I’m currently learning React and Alogorithm. 
 - 🚀 I always take care not to stay in my comfort zone.
