@@ -1,16 +1,19 @@
-### Hi there 👋
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20ShinJaeHoon();&fontColor=f5ce00&fontSize=70&animation=twinkling)
 
-<!--
-**tlshoon/tlshoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tlshoon/)](https://www.instagram.com/tlshoon/) 
+<hr>
 
-Here are some ideas to get you started:
+- 💻I'm a Front-end Developer Interested in Web.
+- 🌏 I am from South Korea and living in Bucheon.
+- 🌱 I’m currently learning React / Alogorithm. 
+- 🚀 I always take care not to stay in my comfort zone.
+- 📫 How to reach me: sjhh0105@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+
+
+**Languages and Tools**  
+
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>  
+<hr>
