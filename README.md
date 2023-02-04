@@ -3,12 +3,12 @@
 ### Hi there [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tlshoon/)](https://www.instagram.com/tlshoon/) 
 <hr>
 
-- 💻I'm a Front-end Developer Interested in Web.
+- 💻I'm a Front-end Developer Interested in SPA.
 - 🌏 I am from South Korea and living in Bucheon.
-- 🌱 I’m currently learning React / Alogorithm. 
+- 🌱 I’m currently learning React and Alogorithm. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: sjhh0105@naver.com
-- 🥅 2023 Goals: learning more Front skills and Doing Team project. 
+- 🥅 2023 Goals: Working on a team project, learning a lot of front skills and living a happy life.
 
 
 <hr>
