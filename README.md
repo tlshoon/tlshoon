@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React / Alogorithm. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: sjhh0105@naver.com
-- - 🥅 2023 Goals: learning more Front skills and Doing Team project. 
+- 🥅 2023 Goals: learning more Front skills and Doing Team project. 
 
 
 <hr>
