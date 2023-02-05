@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20console.log(ShinJaeHoon);&fontColor=f5ce00&fontSize=70&animation=twinkling)
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20ShinJaeHoon();&fontColor=f5ce00&fontSize=70&animation=twinkling)
 
 ### Hi there [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tlshoon/)](https://www.instagram.com/tlshoon/) 
 <hr>
