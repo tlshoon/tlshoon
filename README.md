@@ -3,10 +3,12 @@
 ### Hi there [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tlshoon/)](https://www.instagram.com/tlshoon/) 
 <hr>
 
+
+- 🌏 I am from South Korea and living in Bucheon.
 - 💻 I'm a Front-end Developer Interested in SPA.
 - 📚 I majored in computer information engineering and Japanese language and culture at Catholic University of Korea.
 - 🪪 I have a certificate of Engineer Information Processing
-- 🌏 I am from South Korea and living in Bucheon.
+- 👨‍👩‍👦‍👦 I have experience in providing service to 500 people.
 - 🌱 I’m currently learning React and Alogorithm. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: sjhh0105@naver.com
