@@ -5,7 +5,7 @@
 
 
 - 🌏 I am from South Korea and living in Bucheon.
-- 💻 I'm a Front-end Developer Interested in SPA.
+- 💻 I'm a Front-end and App Developer Interested in React.js and React.native.
 - 📚 I majored in computer information engineering and Japanese language and culture at Catholic University of Korea.
 - 🪪 I have a certificate of Engineer Information Processing
 - 👨‍👩‍👦‍👦 I have experience in providing service to 500 people.
