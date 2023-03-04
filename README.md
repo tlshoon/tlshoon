@@ -37,7 +37,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png"></code>
 <code><img height="40" src="https://www.kojac.nl/tailwind/images/Backend/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> 
 <code><img height="40" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
