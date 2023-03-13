@@ -30,6 +30,7 @@
 </code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src=https://user-images.githubusercontent.com/87574833/220039287-117d9858-63f1-4690-9fb6-8ad7ef9dcb94.png></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/78568488?s=200&v=4"></code>
